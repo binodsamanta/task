@@ -1,4 +1,6 @@
 hardware
   input device
   output device
+  processing device
+  memory device
 software
