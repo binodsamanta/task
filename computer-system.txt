@@ -2,3 +2,5 @@ hardware
   input device
   output device
 software
+  system software
+  application software
