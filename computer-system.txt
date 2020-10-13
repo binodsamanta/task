@@ -1,6 +1,15 @@
 hardware
   input device
   output device
+  processing device
+  memory device
 software
-  system software
+ system software
   application software
+
+
+
+//done my changes//
+
+ 
+
