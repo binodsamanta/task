@@ -4,7 +4,12 @@ hardware
   processing device
   memory device
 software
+ system software
+  application software
 
 
 
 //done my changes//
+
+ 
+
